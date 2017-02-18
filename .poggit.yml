@@ -4,4 +4,5 @@ branches:
 projects:
   HungerGames:
     path: HungerGames/
+    icon: 146.jpg
 ...
